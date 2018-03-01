@@ -1,4 +1,5 @@
 Homework 3: Blockchain
+
 Zoe Cui and Jonathan Gilmour
 
 Description: Blockchain simulation program for transactions between two parties
